@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sandwip Helpline</string>
+    <string name="home">Home</string>
+    <string name="nul">null</string>
+    <string name="news">News</string>
+    <string name="more">More</string>
+    <string name="gallery">Gallery</string>
+    <string name="unionhealthcare">ইউনিয়ন স্বাস্থ্য কেন্দ্র</string>
+    <string name="hospitals">হাসপাতাল</string>
+    <string name="doctorchamber">ডাক্তারের চেম্বার</string>
+    <string name="bloodbank">ব্লাড ব্যাংক</string>
+    <string name="ambulance">অ্যাম্বুলেন্স</string>
+    <string name="fireservice">ফায়ার সার্ভিস</string>
+    <string name="weather">আবহাওয়া</string>
+    <string name="police">পুলিশ</string>
+    <string name="watertide">জোয়ার-ভাটা</string>
+    <string name="boardexamresult">বোর্ড পরীক্ষার রেজাল্ট</string>
+    <string name="ferighatphone">ফেরিঘাট</string>
+    <string name="view_fullscreen">View FullScreen</string>
+    <string name="govtservice">জাতীয় সেবা</string>
+    <string name="bankphone">ব্যাংক ও বিমা প্রতিষ্ঠানের ফোন নম্বর</string>
+    <string name="selfservice">স্বেচ্ছাসেবী সংগঠন</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_us">About Us</string>
+    <string name="deathbirthreg">জন্ম ও মৃত্যু নিবন্ধন</string>
+    <string name="allunionparishad">ইউনিয়ন পরিষদ</string>
+    <string name="importantphone">গুরুত্বপূর্ণ ফোন নম্বর</string>
+    <string name="pdbphone">পি.ডি.বি ফোন নম্বর</string>
+    <string name="hospital_name">hospital name</string>
+    <string name="hospital_address">hospital address</string>
+</resources>

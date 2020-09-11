@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myTextViewId">mytextviewid</string-array>
+
+    
+    <string-array name="hospital_name">
+        <item>উপজেলা স্বাস্থ্য কমপ্লেক্স</item>
+        <item>সন্দ্বীপ ১০ শয্যা বিশিষ্ট হাসপাতাল</item>
+        <item>হারামিয়া ২০ শয্যা বিশিষ্ট হাসপাতাল</item>
+        <item>সন্দ্বীপ মেডিক্যাল সেন্টার</item>
+        <item>সন্দ্বীপ সেন্ট্রাল ক্লিনিক হাসপাতাল</item>
+        <item>সন্দ্বীপ সেন্ট্রাল পয়েন্ট হাসপাতাল</item>
+    </string-array>
+
+    <string-array name="hospital_address">
+        <item>গাছুয়া,সন্দ্বীপ</item>
+        <item>হরিশপুর, সন্দ্বীপ</item>
+        <item>হারামিয়া, সন্দ্বীপ</item>
+        <item>মুছাপুর, সন্দ্বীপ</item>
+        <item>এনাম নাহার মোড়,হারামিয়া,সন্দ্বীপ</item>
+        <item>এনাম নাহার মোড়,হারামিয়া,সন্দ্বীপ</item>
+    </string-array>
+</resources>
